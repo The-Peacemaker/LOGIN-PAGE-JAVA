@@ -1,2 +1,10 @@
-# LOGIN-PAGE-JAVA
-java login signup page repo
+# Java Login & Sign Up GUI
+
+## JAVA - Login And Register Form
+
+
+## Author
+
+BENEDICT CHACKO MATHEW
+
+JUST THE IMPLEMENTATION OF GUI CONCEPTS
